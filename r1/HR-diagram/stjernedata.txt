@@ -1,0 +1,41 @@
+#Stjerne, Overflatetemperatur (K), Utstrålt effekt (P_sol)
+Gamma Cephei A, 4792, 11.6
+51 Pegasi, 1237, 1.36
+OGLE-TR-56, 5000, 1.32
+2M1207, 2550, 0.002
+V391 Pegasi, 29300, 34
+Fomalhaut,  8590, 0.19
+HD176051, 6000, 1.65
+Kepler 70, 7730, 22.9
+Kepler 88, 0.098, 5513, 0.755
+HD 209458, 6071, 1.77
+DH Tauri, 3751, 0.22
+Gliese 876, 3129, 0.0122
+Luytens stjerne, 3150, 0.0088
+Tau Ceti, 5344, 0.52
+Gliese 1061, 2953, 0.0017
+Alpha Horologii, 5028, 37.61
+Lambda Horologii, 6848, 13.3
+Alpha Centauri, 5790, 1.519
+Beta Centauri, 25000, 31600
+Alpha Pictoris, 7530, 13
+Gamma Pictoris, 4600, 60.75
+HD42540, 4530, 189
+2MASS J0523−1403, 1939, 0.000138
+Van Biesbrocks stjerne, 2600, 0.0004
+Lacaille 8760, 3800, 0.072
+61 Cygni A, 4526, 0.153
+61 Cygni B, 4077, 0.085
+70 Ophiuchi A, 5300, 0.59
+70 Ophiuchi B, 4350, 0.13
+Alpha Mensae A, 5569, 0.81
+Sola, 5780, 1
+Beta Comae Berenices, 5936, 1.357
+Eta Arietis, 6540, 2.5
+Gamma Virginis, 6757, 6
+Beta Pictoris, 8052, 8.7
+Alpha Coronae Borealis, 9700, 74
+Pi Andromedae, 15276, 1136
+Phi1 Orionis, 30000, 28840
+Theta1 Orionis, 39000, 204000
+BI 253, 50100, 912000

@@ -1,0 +1,15 @@
+sort data.txt | uniq -c |grep '^1*'   hvordan finne en unik kombinasjon i en fil
+
+
+
+
+
+
+
+
+
+
+
+
+
+

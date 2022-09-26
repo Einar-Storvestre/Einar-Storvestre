@@ -1,0 +1,7 @@
+name = input("skriv inn navnet ditt ")
+print("hei " + name + " hvordan går det? ")
+svar1 = input()
+print("hyggelig å høre min lille venn, "+ " hvilken farge på sokken har du? ")
+svar2 = input()
+print("jeg liker den fargen E")
+print("hade, lille dumme menneske")

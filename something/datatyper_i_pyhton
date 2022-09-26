@@ -1,0 +1,20 @@
+
+int
+Heltall
+434342
+
+float
+Desimaltall
+3.14159
+
+str
+Streng (tekst)
+"Her er en tekst"
+
+bool
+Boolsk verdi
+False
+
+list
+Liste
+[2, 4, "Sko", False]
