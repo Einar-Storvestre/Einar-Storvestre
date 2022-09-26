@@ -1,0 +1,6 @@
+
+#du må være i directoriet som du skal pushe
+
+git add .
+git commit -m "______(det du vil kalle endringen)______"
+git push
